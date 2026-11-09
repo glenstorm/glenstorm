@@ -1,32 +1,5 @@
-```text
-                       .ll                     dmitrii@borisov ------------------------------------------------
-             !*#%%%%##*#@@@%*++.               OS: ..................................macOS, Windows, Linux, QNX
-           *%%%%%%%%%@@@@%%@@%%%%*             Uptime: ...............................................16+ years
-         *@@@@$$@@@@@%#@@@@@@@%%%@%#+          Host: ..........................................Yerevan, Armenia
-        #@@@@@@%%%%@@@@@@@@$@@@@@@@@@%!        Kernel: ............................Senior C++ Software Engineer
-      *%@@@@%%####%%%%%%%%@@@@%@@@@@@$@+       Toolchain: ..................................CMake, Jenkins, Git
-     %@@@@@@@@%%%##***+!i::++:.,+#@@@@@@+
-    *@$@@@%#+l;;;:,,:,,,,,,,:::::,!%@%@@%      Languages.Programming: ........C++, Objective-C++, Swift, Python
-    %@@#! ..,,,,::::::::;;;:::::::::*%%@@*     Languages.Systems: ...........................C, SQL, Bash, Java
-   +@#l,::::;;:::::;::::;;:::;;;::;;,+%@@#     Languages.Real: ................................Russian, English
-   %%;,:;;::;;;:;:;;;:::;;;;;;;;::;;::%@@+
-   #%!::;:::;;;;;;;;;;::;;;;;;;;;;:;:+%@%      Focus.Desktop: ...................File Provider, XPC, installers
-   *%*;:;:::::::::::;;:::::::::::::::#@@+      Focus.Embedded: ..........................QNX, Linux, DLMS/COSEM
-   *%#:,;:::;;:,,:::;;::::,,::;;;,:::*@@       - Contact ------------------------------------------------------
-   *@# ,llii!+*+!l;;;;;::;l+**++iiil;!@@       Email: ............................dmitrii.borisov.cpp@gmail.com
-   *@# :i:.!*##*l!li,.,:;llll+**!:,;;.%@.      LinkedIn: .....................................dmitriiborisovcpp
-  ,!@*.,:l##;+*l;iii;,,:llii;!*+!*+i:,#%li     GitHub: ...............................................glenstorm
- ,l,#+:,,:::::::;:;;i,,;li;:::;;:;;,.:+#;i:    Open to: .......................Yerevan, hybrid, on-site, remote
- ::,*!;::;::;::::;;;;:,il;;;:::::::,:;i*::;    - Experience ---------------------------------------------------
-  :::li::;;::;;:::ii;::;ili;::;:;::::ii;;;;    ConnectWise: ........................macOS client and installers
-  :::il;;::;:::::;;;:..,;;i;,,:::::;;ii;i;     MERA: ...............................QNX controllers, DLMS/COSEM
-   :,;l;;;::;:;;,:+#iil!#+l;:::::::;;li;i      Tensor: ............................PostgreSQL document platform
-    :;li:::::;::;;;;,i;;;i;;;::::::;il!;       It-aces: ........................Embedded Linux, satellite comms
-      ;i::::;;;i;:;;;:,:;::;;;;;;,:;l!
-       i;:::;;!*!++!!l+!!!!+*l;:::;;!
-       :i:;;:;:::::;iii;:::;:::;;;;!l
-        ;i::;;;;;::::;;:::;;;:;;;:i!
-       .#,ili;:::,::::;;;:,:::;iii;+*
-      l%% ,:l!!;:;:::;:::::::!*+;:,+@#
-     *@@% ,:::;llli;;;;;;i++**i::,,!$@%.
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Dmitrii Borisov, Senior C++ Software Engineer in Yerevan. ASCII portrait with the face in blue." src="dark_mode.svg">
+</picture>
